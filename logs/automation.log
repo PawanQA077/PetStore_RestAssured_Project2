@@ -1,0 +1,36 @@
+17:56:44.584 [main] INFO  api.test.UserDDTests - *********** Creating User by using DDT **************
+17:56:48.221 [main] INFO  api.test.UserDDTests - *********** User Created by using DDT **************
+17:56:48.239 [main] INFO  api.test.UserDDTests - *********** Creating User by using DDT **************
+17:56:49.979 [main] INFO  api.test.UserDDTests - *********** User Created by using DDT **************
+17:56:49.983 [main] INFO  api.test.UserDDTests - *********** Creating User by using DDT **************
+17:56:51.348 [main] INFO  api.test.UserDDTests - *********** User Created by using DDT **************
+17:56:51.569 [main] INFO  api.test.UserDDTests - ********** Get User Details by DDT ***************
+17:56:53.350 [main] INFO  api.test.UserDDTests - ********** User Details is Displayed by DDT***************
+17:56:53.359 [main] INFO  api.test.UserDDTests - ********** Get User Details by DDT ***************
+17:56:54.905 [main] INFO  api.test.UserDDTests - ********** User Details is Displayed by DDT***************
+17:56:54.905 [main] INFO  api.test.UserDDTests - ********** Get User Details by DDT ***************
+17:56:58.927 [main] INFO  api.test.UserDDTests - ********** User Details is Displayed by DDT***************
+17:56:59.048 [main] INFO  api.test.UserDDTests - ********** Deleting User by DDT ***************
+17:57:00.460 [main] INFO  api.test.UserDDTests - ********** Deleted User by DDT ***************
+17:57:00.460 [main] INFO  api.test.UserDDTests - ********** Deleting User by DDT ***************
+17:57:01.845 [main] INFO  api.test.UserDDTests - ********** Deleted User by DDT ***************
+17:57:01.845 [main] INFO  api.test.UserDDTests - ********** Deleting User by DDT ***************
+17:57:03.128 [main] INFO  api.test.UserDDTests - ********** Deleted User by DDT ***************
+18:45:20.674 [main] INFO  api.test.UserDDTests - *********** Creating User by using DDT **************
+18:45:23.529 [main] INFO  api.test.UserDDTests - *********** User Created by using DDT **************
+18:45:23.537 [main] INFO  api.test.UserDDTests - *********** Creating User by using DDT **************
+18:45:24.604 [main] INFO  api.test.UserDDTests - *********** User Created by using DDT **************
+18:45:24.606 [main] INFO  api.test.UserDDTests - *********** Creating User by using DDT **************
+18:45:25.595 [main] INFO  api.test.UserDDTests - *********** User Created by using DDT **************
+18:45:25.669 [main] INFO  api.test.UserDDTests - ********** Get User Details by DDT ***************
+18:45:26.705 [main] INFO  api.test.UserDDTests - ********** User Details is Displayed by DDT***************
+18:45:26.706 [main] INFO  api.test.UserDDTests - ********** Get User Details by DDT ***************
+18:45:27.726 [main] INFO  api.test.UserDDTests - ********** User Details is Displayed by DDT***************
+18:45:27.727 [main] INFO  api.test.UserDDTests - ********** Get User Details by DDT ***************
+18:45:29.150 [main] INFO  api.test.UserDDTests - ********** User Details is Displayed by DDT***************
+18:45:29.218 [main] INFO  api.test.UserDDTests - ********** Deleting User by DDT ***************
+18:45:30.229 [main] INFO  api.test.UserDDTests - ********** Deleted User by DDT ***************
+18:45:30.230 [main] INFO  api.test.UserDDTests - ********** Deleting User by DDT ***************
+18:45:31.241 [main] INFO  api.test.UserDDTests - ********** Deleted User by DDT ***************
+18:45:31.242 [main] INFO  api.test.UserDDTests - ********** Deleting User by DDT ***************
+18:45:32.237 [main] INFO  api.test.UserDDTests - ********** Deleted User by DDT ***************
